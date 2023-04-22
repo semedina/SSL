@@ -11,3 +11,9 @@ y se ejecutó usando:
 La salida en pantalla fue:
 
 `Hola mundo`
+
+Cuando se ejecutó usando:
+
+`./hello > output.txt`
+
+La salida se incluyó en el archivo output.txt
